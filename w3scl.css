@@ -1,0 +1,1049 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(im1.jpg);
+    background-size: 1360px;
+    background-position: justify;
+    background-repeat: no-repeat;
+    
+.first-line{
+    color: rgb(2, 2, 2);
+    background-color: rgb(255, 255, 255);
+    height: 45px;
+    display: flex;
+    line-height:2.5;
+    align-items: center;  
+}
+.first-line > div{
+    font-size: 16px;
+    max-width: 100px;
+    margin: 5px;
+    padding: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.first-line > div:hover{
+    background-color: rgb(5, 152, 98);
+    padding: 5px;
+    border: 0px;
+    border-radius: 5px;
+}
+#input2{
+    border-radius: 20px;
+    border: 2px solid rgb(5, 152, 98);
+    max-width: 130px;
+    height: 28px;
+    padding-inline-start: 5px;
+    
+}
+.language{
+    background-color: rgb(14, 14, 22);
+    display: flex;
+    height: 35px;
+    line-height:1.5;
+    flex-wrap: nowrap;
+    align-items:center;
+    margin: auto;  
+}
+.language > div{
+    text-align:center;
+    font-size: 18px;
+    max-width: 100px;
+    margin: 2px;
+    padding: 10px;
+    color: white;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.language > div:hover{
+    background-color: black;
+}
+.Search{
+    font-size: 20;
+    line-break: 5px;
+    border: 0px solid;
+    padding: 5px;
+}
+.h1{
+color: white;
+font-size: 1.7rem;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+justify-content: center;
+text-align: center;
+padding-top: 15px;
+float: center;
+margin-top: 100px;
+}
+.input1 #search {
+border: 1px solid rgb(216, 215, 215);
+left: 457px;
+top: 320px;
+height: 14px;
+width: 430px;
+margin: 0;
+padding: 13px;
+justify-content: center;
+align-items: center;
+position: absolute;
+border-radius: 50px;
+}
+.div4{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: Bold;
+    margin-top: 100px;
+    text-decoration: underline;
+    font-size: 22px;
+    text-align: center;
+}
+}
+.celar-div{
+    clear: both;
+}
+
+/*container2 start */
+
+.container2{
+ background-color: rgb(217, 238, 225);
+ height: 640px;
+ width: 1360px;
+ margin-top:170px;
+}
+.container2 > div{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 20px;
+    margin-left: 280px;
+    cursor: pointer;
+}
+.celar-div{
+    clear: both;
+}
+
+.Learn-html1 {
+    background-color:rgb(5, 152, 98);
+    color: white;
+    text-align: center;
+    padding-bottom: 25px;
+    max-width: 235px;
+    max-height: 10px;
+    border-radius: 50px;
+    margin-bottom: 25px;
+}
+.Learn-html2 {
+    text-align: center;
+    padding-bottom: 25px;
+    max-width: 235px;
+    max-height: 10px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.Learn-html3 {
+    text-align: center;
+    max-width: 235px;
+    max-height: 10px;
+    border-radius: 50px;
+    padding-bottom: 5px;
+}
+.Learn-html4 {
+    background-color:rgb(238, 151, 160);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-bottom: 25px;
+    max-width: 235px;
+    max-height: 10px;
+    border-radius: 50px;
+    margin-bottom: 1px;
+}
+.Learn-html1:hover{
+    background-color: rgb(30, 141, 100);
+}
+.Learn-html2:hover{
+    background-color:rgb(168, 153, 41);
+}
+.Learn-html3:hover{
+    background-color:rgb(8, 8, 8);
+}
+.Learn-html4:hover{
+    background-color:rgb(230, 126, 137);
+}
+.celar-div{
+    clear: both;
+}
+/*container2 End*/
+
+/* html box start*/
+
+.html-example{
+    background-color: rgb(231, 233, 235);
+    max-width: 425px;
+    border-radius: 8px;
+    box-shadow: 0 2px 2px rgb(105, 102, 102);
+    position: relative;
+}
+.html-text{
+    background-color: rgb(255, 255, 255);
+    border-left: 4px solid rgb(4, 170, 109);
+    width: 390px;
+   margin-left: 14px;
+   margin-top: 25px;
+}
+/* html box End*/
+.celar-div{
+    clear: both;
+}
+
+/* container3 start*/
+
+.container3{
+    background-color: rgb(255, 244, 163);
+    height: 605px;
+    width: 1360px;
+    margin-top:0px;
+   }
+   .container3 > div{
+       font-size: 20px;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       padding-top: 20px;
+       margin-left: 280px;
+       cursor: pointer;
+   }
+   .celar-div{
+       clear: both;
+   }
+   .Learn-html1 {
+    background-color:rgb(5, 152, 98);
+    color: white;
+    text-align: center;
+    padding-bottom: 25px;
+    max-width: 235px;
+    max-height: 10px;
+    border-radius: 50px;
+    margin-bottom: 25px;
+}
+.Learn-html2 {
+    background-color:rgb(40, 42, 53);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-bottom: 25px;
+    max-width: 235px;
+    max-height: 10px;
+    border-radius: 50px;
+    margin-bottom: 25px;
+}
+.Learn-html3 {
+    background-color:rgb(255, 179, 187);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-bottom: 25px;
+    max-width: 235px;
+    max-height: 10px;
+    border-radius: 50px;
+    margin-bottom: 2px;
+}
+.Learn-html1:hover{
+    background-color: rgb(30, 141, 100);
+}
+.Learn-html2:hover{
+    background-color:rgb(8, 8, 8);
+}
+.Learn-html3:hover{
+    background-color:rgb(230, 126, 137);
+}
+.celar-div{
+    clear: both;
+}
+/* html box start*/
+
+.html-example{
+    background-color: rgb(231, 233, 235);
+    max-width: 425px;
+    border-radius: 8px;
+    box-shadow: 0 2px 2px rgb(105, 102, 102);
+    position: relative;
+}
+.html-text{
+    background-color: rgb(255, 255, 255);
+    border-left: 4px solid rgb(4, 170, 109);
+    width: 390px;
+   margin-left: 14px;
+   margin-top: 25px;
+}
+/* html box End*/
+/* container3 End*/
+.celar-div{
+    clear: both;
+}
+
+/* container4 start*/
+.container4{
+    background-color: rgb(40, 42, 53);
+    height: 605px;
+    width: 1360px;
+    margin-top:0px;
+   }
+   .container4 > div{
+       font-size: 20px;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       padding-top: 20px;
+       margin-left: 280px;
+       cursor: pointer;
+   }
+   .celar-div{
+       clear: both;
+   }
+   .Learn-html1 {
+    background-color:rgb(5, 152, 98);
+    color: white;
+    text-align: center;
+    padding-bottom: 25px;
+    max-width: 235px;
+    max-height: 10px;
+    border-radius: 50px;
+    margin-bottom: 25px;
+}
+.Learn-html2 {
+    background-color: rgb(231, 233, 235);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-bottom: 25px;
+    max-width: 235px;
+    max-height: 10px;
+    border-radius: 50px;
+    margin-bottom: 25px;
+}
+.Learn-html3 {
+    background-color:rgb(255, 179, 187);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-bottom: 25px;
+    max-width: 235px;
+    max-height: 10px;
+    border-radius: 50px;
+    margin-bottom: 2px;
+}
+.Learn-html1:hover{
+    background-color: rgb(30, 141, 100);
+}
+.Learn-html2:hover{
+    background-color:rgb(197, 188, 188);
+}
+.Learn-html3:hover{
+    background-color:rgb(228, 146, 154);
+}
+.celar-div{
+    clear: both;
+}
+/* html box start*/
+
+.html-example{
+    background-color: rgb(231, 233, 235);
+    max-width: 425px;
+    border-radius: 8px;
+    box-shadow: 0 2px 2px rgb(105, 102, 102);
+    position: relative;
+}
+.html-text{
+    background-color: rgb(255, 255, 255);
+    border-left: 4px solid rgb(4, 170, 109);
+    width: 390px;
+   margin-left: 14px;
+   margin-top: 40px;
+}
+/* html box End*/
+
+
+/* container4 End*/
+.celar-div{
+    clear: both;
+}
+/* container5 start*/
+.container5{
+    background-color: rgb(243, 236, 234);
+    height: 580px; 
+    width: 1360px;
+    margin-top:0px;
+   }
+   .container5 > div{
+       font-size: 20px;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       padding-top: 20px;
+       margin-left: 280px;
+       cursor: pointer;
+   }
+   .celar-div{
+       clear: both;
+   }
+   .Learn-html1 {
+    background-color:rgb(5, 152, 98);
+    color: white;
+    text-align: center;
+    padding-bottom: 25px;
+    max-width: 235px;
+    max-height: 10px;
+    border-radius: 50px;
+    margin-bottom: 25px;
+}
+.Learn-html2 {
+    background-color: rgb(17, 17, 17);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-bottom: 25px;
+    max-width: 235px;
+    max-height: 10px;
+    border-radius: 50px;
+    margin-bottom: 25px;
+}
+.Learn-html3 {
+    background-color:rgb(224, 169, 175);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-bottom: 25px;
+    max-width: 235px;
+    max-height: 10px;
+    border-radius: 50px;
+    margin-bottom: 2px;
+}
+.Learn-html1:hover{
+    background-color: rgb(30, 141, 100);
+}
+.Learn-html2:hover{
+    background-color:rgb(0, 0, 0);
+}
+.Learn-html3:hover{
+    background-color:rgb(204, 132, 139);
+}
+.celar-div{
+    clear: both;
+}
+/* html box start*/
+
+.html-example{
+    background-color: rgb(231, 233, 235);
+    max-width: 425px;
+    border-radius: 8px;
+    box-shadow: 0 2px 2px rgb(105, 102, 102);
+    position: relative;
+}
+.html-text{
+    background-color: rgb(255, 255, 255);
+    border-left: 4px solid rgb(4, 170, 109);
+    width: 390px;
+    height: 270px;
+   margin-left: 14px;
+   margin-top: 40px;
+}
+/* html box End*/
+
+/* container5 End*/
+.celar-div{
+    clear: both;
+}
+/* container6 start*/
+.container6{
+    background-color: rgb(150, 212, 212);
+    height: 560px; 
+    width: 1360px;
+    margin-top:0px;
+   }
+   .container6 > div{
+       font-size: 20px;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       padding-top: 20px;
+       margin-left: 280px;
+       cursor: pointer;
+   }
+   .celar-div{
+       clear: both;
+   }
+   .Learn-html1 {
+    background-color:rgb(5, 152, 98);
+    color: white;
+    text-align: center;
+    padding-bottom: 25px;
+    max-width: 235px;
+    max-height: 10px;
+    border-radius: 50px;
+    margin-bottom: 25px;
+}
+.Learn-html2 {
+    background-color: rgb(17, 17, 17);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-bottom: 25px;
+    max-width: 235px;
+    max-height: 10px;
+    border-radius: 50px;
+    margin-bottom: 25px;
+}
+.Learn-html3 {
+    background-color:rgb(224, 169, 175);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-bottom: 25px;
+    max-width: 235px;
+    max-height: 10px;
+    border-radius: 50px;
+    margin-bottom: 2px;
+}
+.Learn-html1:hover{
+    background-color: rgb(30, 141, 100);
+}
+.Learn-html2:hover{
+    background-color:rgb(0, 0, 0);
+}
+.Learn-html3:hover{
+    background-color:rgb(204, 132, 139);
+}
+.celar-div{
+    clear: both;
+}
+/* html box start*/
+
+.html-example{
+    background-color: rgb(231, 233, 235);
+    max-width: 455px;
+    border-radius: 8px;
+    box-shadow: 0 2px 2px rgb(105, 102, 102);
+    position: relative;
+}
+.html-text{
+    background-color: rgb(255, 255, 255);
+    border-left: 4px solid rgb(4, 170, 109);
+    width: 427px;
+    height: 200px;
+   margin-left: 14px;
+   margin-top: 20px;
+}
+/* html box End*/
+
+/* container6 End*/
+.celar-div{
+    clear: both;
+}
+
+/* The Big Container7 Start*/
+.Container7{
+    background-color: rgb(40, 42, 53);
+    max-width: 1375px;
+    padding: 40px;
+    padding-top: 90px;
+}
+/*first row php jQuary start*/
+.php-1{
+    background-color: rgb(255, 192, 199);
+    height:245px;
+    width: 595px;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.jQuery-1{
+    background-color:rgb(255, 244, 163);
+    height:245px;
+    width: 595px;
+    border-radius: 5px;
+    margin-left: 670px;
+    margin-top: -255px;
+    text-align: center;
+    margin-bottom: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.php{
+    margin-top: 38px;
+    padding: 12px;
+    background-color: rgb(41, 39, 49);
+    max-width: 190px;
+    max-height: 16px;
+    border-radius: 50px;
+    margin-left: 190px;
+    color: white;
+    font-weight: bold;
+}
+.jQuery{
+    margin-top: 38px;
+    padding: 12px;
+    background-color: rgb(41, 39, 49);
+    max-width: 190px;
+    max-height: 16px;
+    border-radius: 50px;
+    margin-left: 190px;
+    color: white;
+    font-weight: bold;
+}
+.php:hover{
+    background-color: rgb(0, 0, 0);
+}
+.jQuery:hover{
+    background-color: rgb(0, 0, 0);
+}
+/*first row php jQuary End*/
+
+/*2nd row java bootstrap start*/
+.java-1{
+    background-color: #F3ECEA;
+    height:245px;
+    width: 595px;
+    border-radius: 5px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Bootstrap-1{
+    background-color:rgb(217, 238, 225);
+    height:245px;
+    width: 595px;
+    border-radius: 5px;
+    margin-left: 670px;
+    margin-top: -255px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.java{
+    margin-top: 38px;
+    padding: 12px;
+    background-color: rgb(41, 39, 49);
+    max-width: 190px;
+    max-height: 16px;
+    border-radius: 50px;
+    margin-left: 190px;
+    color: white;
+    font-weight: bold;
+}
+.Bootstrap{
+    margin-top: 38px;
+    padding: 12px;
+    background-color: rgb(41, 39, 49);
+    max-width: 190px;
+    max-height: 16px;
+    border-radius: 50px;
+    margin-left: 190px;
+    color: white;
+    font-weight: bold;
+}
+.java:hover{
+    background-color: rgb(0, 0, 0);
+}
+.Bootstrap:hover{
+    background-color: rgb(0, 0, 0);
+}
+/*2nd row java bootstrap End*/
+
+/*3rd row W3.css/c++ start*/
+.W3-css{
+    background-color: rgb(150, 212, 212);
+    height:245px;
+    width: 595px;
+    border-radius: 5px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.C-plus{
+    background-color:rgb(231, 233, 235);
+    height:245px;
+    width: 595px;
+    border-radius: 5px;
+    margin-left: 670px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.W3css{
+    margin-top: 38px;
+    padding: 12px;
+    background-color: rgb(41, 39, 49);
+    max-width: 190px;
+    max-height: 16px;
+    border-radius: 50px;
+    margin-left: 190px;
+    color: white;
+    font-weight: bold;
+}
+.c-1{
+    margin-top: 38px;
+    padding: 12px;
+    background-color: rgb(41, 39, 49);
+    max-width: 190px;
+    max-height: 16px;
+    border-radius: 50px;
+    margin-left: 190px;
+    color: white;
+    font-weight: bold;
+}
+.W3css:hover{
+    background-color: rgb(0, 0, 0);
+}
+.c-1:hover{
+    background-color: rgb(0, 0, 0);
+}
+/*3rd row W3.css/C++ End*/
+
+/*C/C# box start*/
+.C{
+    background-color: rgb(234, 177, 185);
+    max-width:555px;
+    height: 70px;
+    font-size: 35px;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 130px;    
+    padding-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.C-hash{
+    background-color: rgb(234, 224, 152);
+    max-width:555px;
+    height: 70px;
+    font-size: 35px;
+    padding: 20px;
+    margin-left:670px;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: -140px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*C/C# box End*/
+.celar-div{
+    clear: both;
+}
+
+/*Small box Start*/
+.Rto-artificial{
+    box-sizing: border-box;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    text-align: center;
+    cursor: pointer;
+}
+/*1st row*/
+.short-div-1{
+    float: left;
+    margin-right:75px;
+    width: 260px;
+    height: 70px;
+    border-radius: 5px;  
+}
+.short-div-2{
+    float: left;
+    width: 260px;
+    height: 70px;
+    border-radius: 5px;
+}
+/*Small box end*/
+.celar-div{
+    clear: both;
+}
+/*2nd row of 2 box*/
+.long-box1{
+    float: left;
+    margin-right:75px;
+    width: 595px;
+    height: 70px;
+    border-radius: 5px;  
+}
+.long-box2{
+    float: left;
+    width: 595px;
+    height: 70px;
+    border-radius: 5px;
+}
+/*2nd row of 2 box end*/
+/*code editor start*/
+.code-editor{
+    font-size: 22px;
+    text-align: center;
+    margin-top: 130px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.try-frontend{
+    background: rgb(5, 152, 98);
+    height: 20px;
+    text-align: center;
+    padding: 5px;
+    padding-top: 10px;
+    margin: 20px;
+    font-size: 16px;
+    color: white;
+    width: 280px;
+    margin-left: 160px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+/*code editor End*/
+/*w3 school spaces on*/
+.after-img{
+    margin-top: -50px;
+}
+.after-img > div{
+box-sizing: border-box;
+  float: left;
+  width: 190px; 
+  margin: 60px;
+  height: 50px;
+  font-size: 17px;
+  font-family:Arial, Helvetica, sans-serif;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+.learn-more{
+    text-align: center;
+    font-size: 25px;
+    margin: 0 auto;
+    color: white;
+    background-color: rgb(5, 152, 98);  
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 10px; 
+    height: 40px;
+    width: 300px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+/*w3 school spaces off*/
+/* The Big Container7 End*/
+.celar-div{
+    clear: both;
+}
+/* The Big Container8 blue start*/
+.container-8{
+    background-color: rgb(217, 238, 225);
+    width: 1375px;
+    height: 880px;
+}
+.Learning{
+    text-align: center;
+    padding-top: 90px;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 120px;
+}
+.Whitebox-1{
+    background-color: #FFFFFF;
+    padding: 35px;
+    height: 240px;
+    width: 900px;
+    border-radius: 20px;
+    margin: 0 auto;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+}
+.black{
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(26, 26, 37);  
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 5px;
+    height: 32px;
+    width: 260px;
+    border-radius: 50px;
+    position: absolute;
+    margin-top: 50px;
+}
+.whitebox-2{
+    text-align: center;
+    background-color: #ffffff;
+    position:absolute;
+    height:460px;
+    width: 360px;
+    margin-left: 530px;
+    margin-top: -250px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 1px 2px  rgb(212, 208, 208);
+}
+/* The Big Container8 blue End*/
+.celar-div{
+    clear: both;
+}
+/* The Big Container9 navy start*/
+.container-9{
+    background-color: rgb(40, 42, 53);
+    width: 1375px;
+    height: 470px;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 100px;
+    color: white;
+}
+
+.celar-div{
+    clear: both;
+}
+ /* The Container9 navy End*/
+
+ /* The Container10 White start*/
+ .container-10{
+    background-color: rgb(243, 236, 234);
+    height: 360px;
+    width: 1375px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding-top: 90px;
+    text-align: center;
+    font-size: 4.5rem;
+ }
+ .celar-div{
+    clear: both;
+}
+ /* The Container10 White End*/  
+
+ /* The Container11 sky start*/
+ .container-11{
+    background-color: rgb(150, 212, 212);
+    height: 500px;
+    width: 1375px;
+    font-family: cursive;;
+    font-weight: bold;
+    padding-top: 90px;
+    text-align: center;
+    font-size: 4rem;
+ }
+ .celar-div{
+    clear: both;
+}
+ /* The Container11 sky End*/
+
+ /* The Container12 black start*/
+ .container-12{
+    background-color: rgb(40, 42, 53);
+    height: 460px;
+    width: 1375px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 2rem;
+    color: #FFFFFF;
+ }
+ .container-12 > div{
+    display: flex;
+    float: left;
+    width: 330px;
+    text-align: center;
+    height: 100px;
+    margin-left: 90px;
+    margin-top: 90px;
+    background-color:rgb(5, 166, 107);
+    border-radius: 5px;
+    padding-top: 70px;
+    padding-left: 220px;
+ }
+ .celar-div{
+    clear: both;
+}
+ /* The Container12 black End*/
+
+ /* The Container13 sky blue start*/
+ .container-13{
+    background-color: rgb(231, 233, 235);
+    height: 750px;
+    width: 1375px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 2.1rem;
+    color: #1f1d1d;
+ }
+ .celar-div{
+    clear: both;
+}
+ /* The Container13 sky blue End*/
+
+ /* The Container14 navy blue start*/
+ .container-14{
+    background-color: rgb(40, 42, 53);
+    height: 500px;
+    width: 1375px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 100px;
+    text-align: left;
+    font-size: 2rem;
+    color: pink;
+    padding-left: 20px;
+ }
+ .celar-div{
+    clear: both;
+}
+ /* The Container14 navy blue End*/
+ /* The Container15 white start*/
+ .container-15{
+    background-color: #FFFFFF;
+    height: 860px;
+    width: 1375px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 2rem;
+    color: rgb(0, 0, 0);
+    padding-top: 100px;
+ }
+ .small-line{
+    height: 70px;
+    width: 50px;
+    margin: 0 auto;
+    margin-top: -7px;
+ }
+ .celar-div{
+    clear: both;
+}
+ /* The Container15 White End*/
+
+ /* The last Container16 start*/
+ .container-16{
+    background-color: rgb(40, 42, 53);
+    height: 700px;
+    width: 1375px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 80px;
+    text-align: center;
+    color: white;
+ }
+ .beside-w3logo{
+    font-size: 15px;
+    margin-top: -45px;
+    margin-right: 150px;
+    word-spacing: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .last-4div{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 102px;
+    text-align: left;
+    color: #DDDDDD;
+ }
+ .top-tutorials{
+    height: 300px;
+    width: 150px;
+    font-size: 12px;
+    padding: 5px;
+    line-height: 16px;
+ }
+ .icon{
+    
+ }
+ .icon > div{
+    
+ }
+ .last-p{
+    margin-left: 100px;
+    color: #DDDDDD;
+    height: 100px;
+    width: 900px;
+    text-align: left;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif
+ }
+
+
+ /* The last Container16 End*/
+
+
